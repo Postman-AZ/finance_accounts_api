@@ -1,5 +1,5 @@
-# finance_backend_for_frontend_accounts_api
-Welcome to the PM Bank Postman Public Workspace! 
+# finance_accounts_api
+Welcome to the Postman Demo Public Workspace! 
 Our Bank Account API helps introduces the ability for user management and money transfer services via our APIs.
 
 ![Imgur](https://i.imgur.com/lSrdUFr.png)
